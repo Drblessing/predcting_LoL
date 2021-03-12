@@ -35,7 +35,8 @@
 
 ### Evaluation Metrics 
 - Accuracy
-- F1_score
+- f1_score
+
 ### Results
 - Able to predict the next game with 52% accuracy not including teams
 
