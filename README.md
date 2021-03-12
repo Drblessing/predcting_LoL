@@ -33,6 +33,9 @@
  - Random Forest Classifier
  - Logistic Regression
 
+### Evaluation Metrics 
+- Accuracy
+- F1_score
 ### Results
 - Able to predict the next game with 52% accuracy not including teams
 
