@@ -12,7 +12,7 @@
  
  ## Data
  
- https://www.kaggle.com/chuckephron/leagueoflegends
+ [League of Legends Data](https://www.kaggle.com/chuckephron/leagueoflegends)
  
  The data used was all League of Legends competitive matches between 2015-2017. 
  
