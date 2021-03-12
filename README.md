@@ -1,6 +1,6 @@
 # predcting_LoL
  
- © 2021, Algod Trading & Daniel Blessing, All rights reserved.
+ © 2021, Daniel Blessing, All rights reserved.
  
  How well can we predict League of Legends games before they happen?
  
