@@ -32,6 +32,7 @@
  ### Algorithms & hyperparameter search
  - Random Forest Classifier
  - Logistic Regression
+ - Random seed 42
 
 ### Evaluation Metrics 
 - Accuracy
