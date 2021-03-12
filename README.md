@@ -1,6 +1,6 @@
 # predcting_LoL
  
- © 2021, Daniel Blessing, All rights reserved. [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+ © 2021, Daniel Blessing, All rights reserved. 
  
  [Colab](https://colab.research.google.com/drive/1ME9QJv7eDU4g6TIzE9rIMElCS6rpuLb3?usp=sharing)
  
