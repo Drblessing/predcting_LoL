@@ -8,7 +8,7 @@
  
  This is clearly an important topic to help tune prediction markets as well as focus coaches time on the most important features. 
  
- An investigation on this topic by me, Daniel Blessing, a data science masters student at the (University of San Francisco)[https://www.usfca.edu/] 
+ An investigation on this topic by me, Daniel Blessing, a data science masters student at the [University of San Francisco](https://www.usfca.edu/)
  
  ## Data
  
