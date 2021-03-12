@@ -2,6 +2,8 @@
  
  © 2021, Daniel Blessing, All rights reserved.
  
+ [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+ 
  League of Legends is the world's most popular Esport, with billions of dollars gambled on it per year. 
  
  How well can we predict League of Legends games before they happen with machine learning?
