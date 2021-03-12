@@ -20,4 +20,20 @@
  
  There are approximately 7620 competitive matches in the dataset. 
  
+ ## Project 
+ 
+ ### EDA
+ - Blue team has won 54% of the games
+ - The number of bans has changes from 3 to 5 
+ 
+ ### Feature Cleaning
+ - String cleaning of categorical variables
+ 
+ ### Algorithms & hyperparameter search
+ - Random Forest Classifier
+ - Logistic Regression
+
+### Results
+- Able to predict the next game with 52% accuracy not including teams
+
  
