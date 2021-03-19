@@ -1,6 +1,5 @@
 # predcting_LoL
  
- © 2021, Daniel Blessing, All rights reserved. 
  
  [Colab](https://colab.research.google.com/drive/1ME9QJv7eDU4g6TIzE9rIMElCS6rpuLb3?usp=sharing)
  
